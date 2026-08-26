@@ -1,0 +1,1 @@
+import{W as O,on as g}from"./chunk-XrkdtaVf.js";import{p as k}from"./main-XI2LGS2U.js";var u=class e{api=g(k);getMyReturns(){return this.api.get(`/returns/my`)}createReturn(t){return this.api.post(`/returns/`,t)}static ɵfac=function(i){return new(i||e)};static ɵprov=O({token:e,factory:e.ɵfac,providedIn:`root`})};export{u as t};

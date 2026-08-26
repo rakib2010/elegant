@@ -1,0 +1,1 @@
+var o=[{path:``,pathMatch:`full`,title:`Cart`,loadComponent:()=>import(`./chunk-CPiU9kF5.js`).then(t=>t.CartPage)}];export{o as cartRoutes};

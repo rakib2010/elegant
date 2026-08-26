@@ -1,0 +1,1 @@
+var t=[{path:``,pathMatch:`full`,title:`My Profile`,loadComponent:()=>import(`./chunk-BJjnZ8Oy.js`).then(o=>o.ProfilePage)}];export{t as profileRoutes};

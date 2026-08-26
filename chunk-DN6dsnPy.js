@@ -1,0 +1,1 @@
+var o=[{path:``,pathMatch:`full`,title:`All Products`,loadComponent:()=>import(`./chunk-QqSpCs7M.js`).then(t=>t.ProductListAll)},{path:`all`,title:`All Products`,loadComponent:()=>import(`./chunk-QqSpCs7M.js`).then(t=>t.ProductListAll)},{path:`:id`,title:`Product`,loadComponent:()=>import(`./chunk-Cq4XhARX.js`).then(t=>t.ProductDetail)}];export{o as productsRoutes};

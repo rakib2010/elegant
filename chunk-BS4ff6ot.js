@@ -1,0 +1,1 @@
+var o=[{path:``,pathMatch:`full`,title:`Invoices`,loadComponent:()=>import(`./chunk-DqARtF5j2.js`).then(t=>t.InvoiceList)}];export{o as invoicesRoutes};

@@ -1,0 +1,1 @@
+var o=[{path:``,pathMatch:`full`,title:`Checkout`,loadComponent:()=>import(`./chunk-DAasc514.js`).then(t=>t.CheckoutPage)}];export{o as checkoutRoutes};
